@@ -1,0 +1,101 @@
+[
+    {
+        "id"           : 101,
+        "name"         : "J-00023 Site Build",
+        "site"         : "Broadway & 7th",
+        "startDate"    : "2017-02-07 8:00",
+        "duration"     : 4,
+        "durationUnit" : "d",
+        "iconCls"      : "b-fa b-fa-fw b-fa-beer"
+    },
+    {
+        "id"           : 102,
+        "name"         : "J-00026 Inspection",
+        "site"         : "Broadway & 8th",
+        "startDate"    : "2017-02-07 10:00",
+        "duration"     : 8,
+        "durationUnit" : "h",
+        "iconCls"      : "b-fa b-fa-fw b-fa-cog"
+    },
+    {
+        "id"           : 103,
+        "name"         : "J-00029 Audit",
+        "site"         : "Broadway & 9th",
+        "startDate"    : "2017-02-06 8:00",
+        "duration"     : 2,
+        "durationUnit" : "h",
+        "iconCls"      : "b-fa b-fa-fw b-fa-book"
+    },
+    {
+        "id"           : 104,
+        "name"         : "J-00034 Build",
+        "site"         : "Broadway & 10th",
+        "startDate"    : "2017-02-08 8:00",
+        "duration"     : 2,
+        "durationUnit" : "h",
+        "iconCls"      : "b-fa b-fa-fw b-fa-book"
+    },
+    {
+        "id"           : 105,
+        "name"         : "J-00046 Fiber Install",
+        "site"         : "Broadway & 11th",
+        "startDate"    : "2017-02-09 8:00",
+        "duration"     : 2,
+        "durationUnit" : "h",
+        "iconCls"      : "b-fa b-fa-fw b-fa-question"
+    },
+    {
+        "id"           : 106,
+        "name"         : "J-00048 Modification",
+        "site"         : "Broadway & 12th",
+        "startDate"    : "2017-02-10 8:00",
+        "duration"     : 4,
+        "durationUnit" : "h",
+        "iconCls"      : "b-fa b-fa-fw b-fa-life-ring"
+    },
+    {
+        "id"           : 107,
+        "name"         : "J-00058 Audit",
+        "site"         : "Broadway & 13th",
+        "startDate"    : "2017-02-11 8:00",
+        "duration"     : 1,
+        "durationUnit" : "h",
+        "iconCls"      : "b-fa b-fa-fw b-fa-dumbbell"
+    },
+    {
+        "id"           : 109,
+        "name"         : "J-00078 Installation",
+        "site"         : "Broadway & 14th",
+        "startDate"    : "2017-02-08 8:00",
+        "duration"     : 7,
+        "durationUnit" : "h",
+        "iconCls"      : "b-fa b-fa-fw b-fa-plane"
+    },
+    {
+        "id"           : 110,
+        "name"         : "J-00078 New Build",
+        "site"         : "Broadway & 15th",
+        "startDate"    : "2017-02-06 8:00",
+        "duration"     : 3,
+        "durationUnit" : "h",
+        "iconCls"      : "b-fa b-fa-fw b-fa-phone"
+    },
+    {
+        "id"           : 111,
+        "name"         : "J-00079 Closeout",
+        "site"         : "Broadway & 16th",
+        "startDate"    : "2017-02-06 8:00",
+        "duration"     : 3,
+        "durationUnit" : "h",
+        "iconCls"      : "b-fa b-fa-fw b-fa-bug"
+    },
+    {
+        "id"           : 112,
+        "name"         : "J-00082 Tower Maintenance",
+        "site"         : "Broadway & 17th",
+        "startDate"    : "2017-02-06 8:00",
+        "duration"     : 2,
+        "durationUnit" : "h",
+        "iconCls"      : "b-fa b-fa-fw b-fa-cog"
+    }
+]

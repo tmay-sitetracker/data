@@ -1,0 +1,22 @@
+{
+    "success"    : true,
+    "resourceTimeRanges" : {
+        "rows" : [
+            {
+                "id"         : "1",
+                "resourceId" : "r1",
+                "name"       : "OutOfOffice",
+                "startDate"  : "2017-02-03",
+                "duration"    : 5,
+                "timeRangeColor" : "red"
+            },
+            {
+                "resourceId" : "r4",
+                "startDate" : "2017-01-05",
+                "endDate" : "2017-01-06",
+                "name" : "Out of Office",
+                "timeRangeColor" : "red"
+            }
+        ]
+    }
+}

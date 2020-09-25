@@ -1,0 +1,21 @@
+{
+    "success"    : true,
+    "data"       : [
+        {
+            "id"        : "weekends",
+            "name"      : "Weekends",
+            "intervals" : [
+                {
+                    "recurrentStartDate" : "on Sat at 0:00",
+                    "recurrentEndDate"   : "on Mon at 0:00",
+                    "isWorking"          : false
+                }
+            ]
+        },
+        {
+            "id"        : "24/7",
+            "name"      : "24/7",
+            "intervals" : []
+        }
+    ]
+}

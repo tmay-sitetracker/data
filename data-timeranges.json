@@ -1,0 +1,12 @@
+{
+    "success"    : true,
+    "data"       : [
+        {
+            "id"             : 1,
+            "startDate" : "2017-02-06",
+            "duration" : 2,
+            "durationUnit" : "d",
+            "name" : "Lunch"
+        }
+    ]
+}

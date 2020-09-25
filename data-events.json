@@ -1,0 +1,193 @@
+{
+    "success"    : true,
+    "data"       : [
+        {
+            "id"         : "1",
+            "Name"       : "J-00001 New Brunswick Day 1",
+            "Job"        : "J-00001",
+            "Scheduled_Start__c"  : "2017-02-07 8:00",
+            "duration"    : 10,
+            "durationUnit": "h",
+            "iconCls"    : "b-fa b-fa-calendar",
+            "constraintDate" : "2017-02-07 8:00",
+            "constraintType" : "startnoearlierthan"
+        },
+        {
+            "id"         : "1b",
+            "Name"       : "J-00001 New Brunswick  Day 2",
+            "Job"        : "J-00001",
+            "Scheduled_Start__c"  : "2017-02-08 8:00",
+            "duration"    : 10,
+            "durationUnit": "h",
+            "iconCls"    : "b-fa b-fa-calendar",
+            "constraintDate" : "2017-02-08 8:00",
+            "constraintType" : "startnoearlierthan"
+        },
+        {
+            "id"         : "1c",
+            "Name"       : "J-00001 New Brunswick  Day 3",
+            "Job"        : "J-00001",
+            "Scheduled_Start__c"  : "2017-02-09 8:00",
+            "duration"    : 10,
+            "durationUnit": "h",
+            "iconCls"    : "b-fa b-fa-calendar",
+            "constraintDate" : "2017-02-09 8:00",
+            "constraintType" : "startnoearlierthan"
+        },
+        {
+            "id"         : "2",
+            "Name"       : "J-00002 QT Mercury Tower",
+            "Job"        : "J-00002",
+            "Scheduled_Start__c"  : "2017-02-03",
+            "duration"    : 2,
+            "durationUnit": "d",
+            "iconCls"    : "b-fa b-fa-calendar"
+        },
+        {
+            "id"         : "3",
+            "Name"       : "J-00003 Pine Plains",
+            "Job"        : "J-00003",
+            "Scheduled_Start__c"  : "2017-02-05",
+            "duration"    : 4,
+            "durationUnit": "d",
+            "iconCls"    : "b-fa b-fa-calendar"
+        },
+        {
+            "id"         : "4",
+            "Name"       : "J-00004 Wheaton",
+            "Job"        : "J-00004",
+            "Scheduled_Start__c"  : "2017-02-09",
+            "duration"    : 4,
+            "durationUnit": "d",
+            "iconCls"    : "b-fa b-fa-exclamation-triangle"
+        },
+        {
+            "id"         : "5",
+            "Name"       : "J-00005 Hickory",
+            "Job"        : "J-00005",
+            "Scheduled_Start__c"  : "2017-02-07",
+            "duration"    : 1,
+            "durationUnit": "d",
+            "iconCls"    : "b-fa b-fa-calendar-alt"
+        },
+        {
+            "id"         : "6",
+            "Name"       : "J-00006 Kearney Office",
+            "Job"        : "J-00006",
+            "Scheduled_Start__c"  : "2017-02-08",
+            "duration"    : 2,
+            "durationUnit": "d",
+            "iconCls"    : "b-fa b-fa-calendar-alt"
+        },
+        {
+            "id"         : "7",
+            "Name"       : "J-00007 Islip",
+            "Job"        : "J-00007",
+            "Scheduled_Start__c"  : "2017-02-06",
+            "duration"    : 2,
+            "durationUnit": "d",
+            "iconCls"    : "b-fa b-fa-calendar-alt"
+        },
+        {
+            "id"         : "8",
+            "Name"       : "J-00008 Hilton Garden Inn",
+            "Job"        : "J-00008",
+            "Scheduled_Start__c"  : "2017-02-07",
+            "duration"    : 3,
+            "durationUnit": "d",
+            "iconCls"    : "b-fa b-fa-exclamation-triangle"
+        },
+        {
+            "id"         : "9",
+            "Name"       : "J-00009 Palo Alto North",
+            "Job"        : "J-00009",
+            "Scheduled_Start__c"  : "2017-02-07 8:00",
+            "Scheduled_End__c"    : "2017-02-07 18:00",
+            "iconCls"    : "b-fa b-fa-exclamation-triangle"
+        },
+        {
+            "id"         : "10",
+            "Name"       : "Crew B",
+            "Job"        : "",
+            "Scheduled_Start__c"  : "2017-02-13 8:00",
+            "duration"    : 10,
+            "durationUnit": "h",
+            "constraintDate" : "2017-02-13 8:00",
+            "constraintType" : "startnoearlierthan",
+            "iconCls"    : "b-fa b-fa-hard-hat",
+            "eventColor" : "violet"
+        },
+        {
+            "id"         : "11",
+            "Name"       : "Crew B",
+            "Job"        : "",
+            "Scheduled_Start__c"  : "2017-02-06 8:00",
+            "duration"    : 10,
+            "durationUnit": "h",
+            "constraintDate" : "2017-02-06 8:00",
+            "constraintType" : "startnoearlierthan",
+            "iconCls"    : "b-fa b-fa-hard-hat",
+            "eventColor" : "violet"
+        },
+        {
+            "id"         : "12",
+            "Name"       : "Crew B",
+            "Job"        : "",
+            "Scheduled_Start__c"  : "2017-02-07 8:00",
+            "duration"    : 10,
+            "durationUnit": "h",
+            "constraintDate" : "2017-02-07 8:00",
+            "constraintType" : "startnoearlierthan",
+            "iconCls"    : "b-fa b-fa-hard-hat",
+            "eventColor" : "violet"
+        } ,
+        {
+            "id"         : "13",
+            "Name"       : "Crew B",
+            "Job"        : "",
+            "Scheduled_Start__c"  : "2017-02-08 8:00",
+            "duration"    : 10,
+            "durationUnit": "h",
+            "constraintDate" : "2017-02-08 8:00",
+            "constraintType" : "startnoearlierthan",
+            "iconCls"    : "b-fa b-fa-hard-hat",
+            "eventColor" : "violet"
+        } ,
+        {
+            "id"         : "14",
+            "Name"       : "Crew B",
+            "Job"        : "",
+            "Scheduled_Start__c"  : "2017-02-09 8:00",
+            "duration"    : 10,
+            "durationUnit": "h",
+            "constraintDate" : "2017-02-09 8:00",
+            "constraintType" : "startnoearlierthan",
+            "iconCls"    : "b-fa b-fa-hard-hat",
+            "eventColor" : "violet"
+        },
+        {
+            "id"         : "15",
+            "Name"       : "Crew B",
+            "Job"        : "",
+            "Scheduled_Start__c"  : "2017-02-10 8:00",
+            "duration"    : 10,
+            "durationUnit": "h",
+            "constraintDate" : "2017-02-10 8:00",
+            "constraintType" : "startnoearlierthan",
+            "iconCls"    : "b-fa b-fa-hard-hat",
+            "eventColor" : "violet"
+        },
+        {
+            "id"         : "16",
+            "Name"       : "Repeat",
+            "Job"        : "",
+            "Scheduled_Start__c"  : "2017-02-06 8:00",
+            "duration"    : 10,
+            "durationUnit": "h",
+            "constraintDate" : "2017-02-06 8:00",
+            "constraintType" : "startnoearlierthan",
+            "iconCls"    : "b-fa b-fa-hard-hat",
+            "eventColor" : "violet"
+        }
+    ]
+}

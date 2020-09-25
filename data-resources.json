@@ -1,0 +1,92 @@
+{
+    "success"    : true,
+    "data"       : [
+        {
+            "id"        : "r1",
+            "name"      : "Johnny Cage",
+            "skills"    : "AIR Installer",
+            "type"      : "Person",
+            "calendar"  : "weekends"
+        },
+        {
+            "id"        : "r2",
+            "name"      : "Liu Kang",
+            "skills"      : "RF Engineer",
+            "type"      : "Person",
+            "calendar"  : "weekends"
+        },
+        {
+            "id"        : "r3",
+            "name"      : "Sonya Blade",
+            "skills"      : "Site Inspector",
+            "type"      : "Person",
+            "calendar"  : "24/7"
+        },
+        {
+            "id"        : "r4",
+            "name"      : "Kung Lao",
+            "skills"      : "Climber",
+            "type"      : "Person",
+            "calendar"  : "weekends"
+        },
+        {
+            "id"        : "r5",
+            "name"      : "Cage's Crew",
+            "skills"    : "Climber, Installer",
+            "type"      : "Crew",
+            "image"     : "kate",
+            "calendar"  : "weekends"
+        },
+        {
+            "id"        : "r6",
+            "name"      : "Crew B",
+            "skills"    : "Auditor, Quality",
+            "type"      : "Crew",
+            "image"     : "lola",
+            "calendar"  : "weekends"
+        },
+        {
+            "id"        : "r7",
+            "name"      : "Crew C",
+            "skills"    : "Installer, Safety Export",
+            "type"      : "Crew",
+            "image"     : "rob",
+            "calendar"  : "weekends"
+        },
+        {
+            "id"        : "r8",
+            "name"      : "Jong",
+            "skills"      : "Auditor",
+            "type"      : "Person",
+            "calendar"  : "24/7"
+        },
+        {
+            "id"        : "r9",
+            "name"      : "Lola",
+            "skills"      : "Foreman",
+            "type"      : "Person",
+            "calendar"  : "24/7"
+        },
+        {
+            "id"        : "r10",
+            "name"      : "Rob",
+            "skills"      : "Fiber Installation",
+            "type"      : "Person",
+            "calendar"  : "weekends"
+        },
+        {
+            "id"        : "r11",
+            "name"      : "Macy",
+            "skills"      : "Spotter",
+            "type"      : "Person",
+            "calendar"  : "weekends"
+        },
+        {
+            "id"        : "r12",
+            "name"      : "Mark",
+            "skills"    : "Spotter",
+            "type"      : "Person",
+            "calendar"  : "weekends"
+        }
+    ]
+}
